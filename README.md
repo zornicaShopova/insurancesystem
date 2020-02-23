@@ -1,3 +1,3 @@
 # insurancesystem
 InsuranceSystem
-# Insurance system is a Windowbuilder app that calculate home insurance
+Insurance system is a WindowBuilder app that calculate home insurance
